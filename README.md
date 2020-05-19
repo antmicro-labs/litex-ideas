@@ -1,0 +1,1 @@
+# Litex project ideas
